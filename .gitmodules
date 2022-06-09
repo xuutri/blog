@@ -1,0 +1,7 @@
+[submodule "xuutriblog/public"]
+	path = xuutriblog/public
+	url = https://github.com/xuutri/xuutri.github.io.git
+	branch = main
+[submodule "xuutriblog/themes/minimal"]
+	path = xuutriblog/themes/minimal
+	url = https://github.com/calintat/minimal.git
